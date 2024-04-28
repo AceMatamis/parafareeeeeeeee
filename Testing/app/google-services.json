@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "867021342892",
+    "project_id": "para-fare",
+    "storage_bucket": "para-fare.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867021342892:android:0fbec9ec73a993ddd5b709",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBod3l3W-Dc3Pzn9EE-AnsUsfkhn7rYFVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
